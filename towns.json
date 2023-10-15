@@ -39,6 +39,18 @@
     "name": "Hainburg a.d.Donau, Stadtgemeinde",
     "regions": [
       {
+        "name": "Adolf Eder-Gasse",
+        "rm": "C",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Alte Poststra\u00c3\u0178e",
+        "rm": "B",
+        "p": "B",
+        "gs": "A"
+      },
+      {
         "name": "Am Dreim\u00c3\u00a4derlhaus",
         "rm": "A",
         "p": "B",
@@ -57,10 +69,148 @@
         "gs": "A"
       },
       {
+        "name": "Am Stadtgraben",
+        "rm": "B",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Am Stein",
+        "rm": null,
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Arbeitergasse",
+        "rm": "C",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Auf der Heide",
+        "rm": "C",
+        "p": "A",
+        "gs": "B"
+      },
+      {
+        "name": "Augasse",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Austria Tabak-Stra\u00c3\u0178e",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Awarenweg",
+        "rm": "C",
+        "p": "A",
+        "gs": "B"
+      },
+      {
+        "name": "Babenbergerstra\u00c3\u0178e",
+        "rm": "B",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Bahnstra\u00c3\u0178e",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Baumgartnerweg",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Bernsteinweg",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Blutgasse",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Braunsbergsiedlung",
+        "rm": "C",
+        "p": "A",
+        "gs": "B"
+      },
+      {
+        "name": "Braunsbergstra\u00c3\u0178e",
+        "rm": "C",
+        "p": "A",
+        "gs": "B"
+      },
+      {
+        "name": "Bremsiedlung",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Brunnenstra\u00c3\u0178e",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Bundesstra\u00c3\u0178e B9",
+        "rm": "C",
+        "p": "A",
+        "gs": "B"
+      },
+      {
+        "name": "Burgenlandstra\u00c3\u0178e",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
         "name": "Carnuntumstra\u00c3\u0178e",
         "rm": "A",
         "p": "B",
         "gs": "A"
+      },
+      {
+        "name": "Dominikusgasse",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Donaul\u00c3\u00a4nde",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Dorrekstra\u00c3\u0178e",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Dr. Donin-Gasse",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Dr. Gmeindl-Gasse",
+        "rm": "C",
+        "p": "A",
+        "gs": "B"
       },
       {
         "name": "Dr. Lang-Weg",
@@ -69,8 +219,92 @@
         "gs": "B"
       },
       {
+        "name": "Dr. Wlasak-Stra\u00c3\u0178e",
+        "rm": "C",
+        "p": "A",
+        "gs": "B"
+      },
+      {
         "name": "Eichenwaldweg",
         "rm": "A",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Erasinweg",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Europastra\u00c3\u0178e",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Fabriksgasse",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Fabriksplatz",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Feldgasse",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Felsenweg",
+        "rm": "C",
+        "p": "A",
+        "gs": "B"
+      },
+      {
+        "name": "Fichtenweg",
+        "rm": null,
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Fischerweg",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Fliegerweg",
+        "rm": null,
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Florianistra\u00c3\u0178e",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Franz Eybel-Gasse",
+        "rm": "C",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Franz Kamlander Gasse",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Freiungsstra\u00c3\u0178e",
+        "rm": "B",
         "p": "B",
         "gs": "A"
       },
@@ -81,10 +315,58 @@
         "gs": "A"
       },
       {
+        "name": "F\u00c3\u00b6hrenweg",
+        "rm": null,
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Garnisonsstra\u00c3\u0178e",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Gartenweg",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Hagenweg",
+        "rm": "C",
+        "p": "B",
+        "gs": "B"
+      },
+      {
         "name": "Hans-Fr\u00c3\u00bchwirth-Stra\u00c3\u0178e",
         "rm": "A",
         "p": "B",
-        "gs": null
+        "gs": "B"
+      },
+      {
+        "name": "Harschgasse",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Hauergasse",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Hauptplatz",
+        "rm": "C",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Haydnplatz",
+        "rm": "C",
+        "p": "B",
+        "gs": "B"
       },
       {
         "name": "Haydnstra\u00c3\u0178e",
@@ -93,10 +375,34 @@
         "gs": "B"
       },
       {
+        "name": "Heimgasse",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
         "name": "Hexenbergweg",
         "rm": "A",
         "p": "B",
         "gs": "B"
+      },
+      {
+        "name": "Hofmeisterstra\u00c3\u0178e",
+        "rm": "C",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Hollitzer Allee",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Hubert Rein-Stra\u00c3\u0178e",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
       },
       {
         "name": "Hubertusgasse",
@@ -111,8 +417,74 @@
         "gs": "A"
       },
       {
+        "name": "Industriestra\u00c3\u0178e",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Jakobusgasse",
+        "rm": "A",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Josef Maurer-Gasse",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Joseph Maschkan-G.",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "J\u00c3\u00a4gergasse",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "J\u00c3\u00a4gerhaussiedlung",
+        "rm": "C",
+        "p": "A",
+        "gs": "B"
+      },
+      {
         "name": "Kaplan-Herzlik-Stra\u00c3\u0178e",
         "rm": "A",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Karnergasse",
+        "rm": "B",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Karpfenweg",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Kasernengasse",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Keltenweg",
+        "rm": "B",
+        "p": "A",
+        "gs": "B"
+      },
+      {
+        "name": "Kirchengasse",
+        "rm": "B",
         "p": "B",
         "gs": "A"
       },
@@ -123,14 +495,74 @@
         "gs": "A"
       },
       {
+        "name": "Klosterplatz",
+        "rm": "C",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Krautgartenweg",
+        "rm": null,
+        "p": "A",
+        "gs": "B"
+      },
+      {
+        "name": "Kriemhildengasse",
+        "rm": "C",
+        "p": "A",
+        "gs": "B"
+      },
+      {
+        "name": "Krippengasse",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Kr\u00c3\u00bcklstra\u00c3\u0178e",
+        "rm": "C",
+        "p": "A",
+        "gs": "B"
+      },
+      {
+        "name": "Kulturplatz",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Kurze-Gasse",
+        "rm": "B",
+        "p": "A",
+        "gs": "B"
+      },
+      {
+        "name": "K\u00c3\u00b6nig Etzel-Gasse",
+        "rm": "C",
+        "p": "A",
+        "gs": "B"
+      },
+      {
         "name": "K\u00c3\u00b6nig Ottokar-Stra\u00c3\u0178e",
         "rm": "A",
         "p": "B",
         "gs": "A"
       },
       {
-        "name": "Jakobusgasse",
-        "rm": "A",
+        "name": "Lagerstra\u00c3\u0178e",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Landstra\u00c3\u0178e",
+        "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Leyrergasse",
+        "rm": "B",
         "p": "B",
         "gs": "A"
       },
@@ -153,256 +585,16 @@
         "gs": "A"
       },
       {
+        "name": "Mathias Tatzmann-Platz",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
         "name": "Maximiliangasse",
         "rm": "A",
         "p": "A",
         "gs": "A"
-      },
-      {
-        "name": "Neuri\u00c3\u0178-Stra\u00c3\u0178e",
-        "rm": "A",
-        "p": null,
-        "gs": null
-      },
-      {
-        "name": "Pfaffenbergweg",
-        "rm": "A",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "R\u00c3\u00b6mergasse",
-        "rm": "A",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Severusgasse",
-        "rm": "A",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Siedlerstra\u00c3\u0178e",
-        "rm": "A",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Schlo\u00c3\u0178bergstra\u00c3\u0178e",
-        "rm": "A",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Sch\u00c3\u00b6nwieserstra\u00c3\u0178e",
-        "rm": "A",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Sparkassengasse",
-        "rm": "A",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Sportweg",
-        "rm": "A",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Steinbruchweg",
-        "rm": "A",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Theodoragasse",
-        "rm": "A",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Weingartenweg",
-        "rm": "A",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Wiesengasse",
-        "rm": "A",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Alte Poststra\u00c3\u0178e",
-        "rm": "B",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Am Stadtgraben",
-        "rm": "B",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Austria Tabak-Stra\u00c3\u0178e",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Babenbergerstra\u00c3\u0178e",
-        "rm": "B",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Bernsteinweg",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Bremsiedlung",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Brunnenstra\u00c3\u0178e",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Burgenlandstra\u00c3\u0178e",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Dr. Donin-Gasse",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Europastra\u00c3\u0178e",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Feldgasse",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Florianistra\u00c3\u0178e",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Franz Kamlander Gasse",
-        "rm": "B",
-        "p": null,
-        "gs": null
-      },
-      {
-        "name": "Freiungsstra\u00c3\u0178e",
-        "rm": "B",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Garnisonsstra\u00c3\u0178e",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Gartenweg",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Heimgasse",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Hubert Rein-Stra\u00c3\u0178e",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "J\u00c3\u00a4gergasse",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Josef Maurer-Gasse",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Joseph Maschkan-G.",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Karnergasse",
-        "rm": "B",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Kasernengasse",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Keltenweg",
-        "rm": "B",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Kirchengasse",
-        "rm": "B",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Kurze- Gasse",
-        "rm": "B",
-        "p": null,
-        "gs": null
-      },
-      {
-        "name": "Leyrergasse",
-        "rm": "B",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Mathias Tatzmann-Platz",
-        "rm": "B",
-        "p": null,
-        "gs": null
       },
       {
         "name": "Neugasse",
@@ -411,376 +603,10 @@
         "gs": "A"
       },
       {
-        "name": "Obere Berggasse",
-        "rm": "B",
+        "name": "Neuri\u00c3\u0178stra\u00c3\u0178e",
+        "rm": "A",
         "p": "B",
         "gs": "A"
-      },
-      {
-        "name": "Quellenweg 8-14",
-        "rm": "B",
-        "p": null,
-        "gs": null
-      },
-      {
-        "name": "Rot-Kreuz-Stra\u00c3\u0178e",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Schanzstra\u00c3\u0178e",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Schie\u00c3\u0178st\u00c3\u00a4ttenweg",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Schlo\u00c3\u0178bergzeile",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Starhemberggasse",
-        "rm": "B",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Teichweg",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Untere Berggasse",
-        "rm": "B",
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Weinberggasse",
-        "rm": "B",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Zehetnergasse 6 und 8",
-        "rm": "B",
-        "p": null,
-        "gs": null
-      },
-      {
-        "name": "Adolf Eder-Gasse",
-        "rm": "C",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Arbeitergasse",
-        "rm": "C",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Auf der Heide",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Awarenweg",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Braunsbergsiedlung",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Braunsbergstra\u00c3\u0178e",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Bundesstra\u00c3\u0178e B9",
-        "rm": "C",
-        "p": null,
-        "gs": null
-      },
-      {
-        "name": "Dr. Gmeindl-Gasse",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Dr. Wlasak-Stra\u00c3\u0178e",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Felsenweg",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Franz Eybel-Gasse",
-        "rm": "C",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Hagenweg",
-        "rm": "C",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Hauptplatz",
-        "rm": "C",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Haydnplatz",
-        "rm": "C",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Hofmeisterstra\u00c3\u0178e",
-        "rm": "C",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "J\u00c3\u00a4gerhaussiedlung",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Klosterplatz",
-        "rm": "C",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "K\u00c3\u00b6nig Etzel-Gasse",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Kriemhildengasse",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Kr\u00c3\u00bcklstra\u00c3\u0178e",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Oberer Braunsbergweg",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Pallmegasse",
-        "rm": "C",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Pre\u00c3\u0178burger Reichsstra\u00c3\u0178e",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Quellenweg 1-3",
-        "rm": "C",
-        "p": null,
-        "gs": null
-      },
-      {
-        "name": "Selbsthilfegasse",
-        "rm": "C",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Spitalgasse",
-        "rm": "C",
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Steingartenweg",
-        "rm": "C",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Thebnerstra\u00c3\u0178e",
-        "rm": "C",
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Ungarstra\u00c3\u0178e",
-        "rm": "C",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Wiener Stra\u00c3\u0178e",
-        "rm": "C",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Zehetnergasse 1",
-        "rm": "C",
-        "p": null,
-        "gs": null
-      },
-      {
-        "name": "Augasse",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Bahnstra\u00c3\u0178e",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Baumgartnerweg",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Blutgasse",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Dominikusgasse",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Donaul\u00c3\u00a4nde",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Dorrekstra\u00c3\u0178e",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Erasinweg",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Fabriksgasse",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Fabriksplatz",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Fischerweg",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Harschgasse",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Hauergasse",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Hollitzer Allee",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Industriestra\u00c3\u0178e",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Karpfenweg",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Krippengasse",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Kulturplatz",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Lagerstra\u00c3\u0178e",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Landstra\u00c3\u0178e",
-        "rm": "D",
-        "p": "B",
-        "gs": "B"
       },
       {
         "name": "Nibelungengasse",
@@ -792,6 +618,18 @@
         "name": "Nibelungenplatz",
         "rm": "D",
         "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Obere Berggasse",
+        "rm": "B",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Oberer Braunsbergweg",
+        "rm": "C",
+        "p": "A",
         "gs": "B"
       },
       {
@@ -807,9 +645,27 @@
         "gs": "B"
       },
       {
+        "name": "Pallmegasse",
+        "rm": "C",
+        "p": "A",
+        "gs": "A"
+      },
+      {
         "name": "Parkweg",
         "rm": "D",
         "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Pfaffenbergweg",
+        "rm": "A",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Pre\u00c3\u0178burger Reichsstra\u00c3\u0178e",
+        "rm": "C",
+        "p": "A",
         "gs": "B"
       },
       {
@@ -819,8 +675,122 @@
         "gs": "B"
       },
       {
+        "name": "Quellenweg 1-3",
+        "rm": "C",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Quellenweg 8-14",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Rauchfangkehrerweg",
+        "rm": null,
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Rot-Kreuz-Stra\u00c3\u0178e",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "R\u00c3\u00b6mergasse",
+        "rm": "A",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Schanzstra\u00c3\u0178e",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Schie\u00c3\u0178st\u00c3\u00a4ttenweg",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Schlo\u00c3\u0178bergstra\u00c3\u0178e",
+        "rm": "A",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Schlo\u00c3\u0178bergzeile",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Sch\u00c3\u00b6nwieserstra\u00c3\u0178e",
+        "rm": "A",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Selbsthilfegasse",
+        "rm": "C",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Severusgasse",
+        "rm": "A",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Siedlerstra\u00c3\u0178e",
+        "rm": "A",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Sparkassengasse",
+        "rm": "A",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Spitalgasse",
+        "rm": "C",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Sportweg",
+        "rm": "A",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Starhemberggasse",
+        "rm": "B",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Steinbruchweg",
+        "rm": "A",
+        "p": "B",
+        "gs": "B"
+      },
+      {
         "name": "Steinerweg",
         "rm": "D",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Steingartenweg",
+        "rm": "C",
         "p": "B",
         "gs": "B"
       },
@@ -837,6 +807,78 @@
         "gs": "B"
       },
       {
+        "name": "Teichweg",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Tempelweg",
+        "rm": null,
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Tennisplatz",
+        "rm": null,
+        "p": "A",
+        "gs": "B"
+      },
+      {
+        "name": "Thebnerstra\u00c3\u0178e",
+        "rm": "C",
+        "p": "A",
+        "gs": "B"
+      },
+      {
+        "name": "Theodoragasse",
+        "rm": "A",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Ungarstra\u00c3\u0178e",
+        "rm": "C",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Untere Berggasse",
+        "rm": "B",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Waldweg",
+        "rm": null,
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Weinberggasse",
+        "rm": "B",
+        "p": "A",
+        "gs": "A"
+      },
+      {
+        "name": "Weingartenweg",
+        "rm": "A",
+        "p": "B",
+        "gs": "A"
+      },
+      {
+        "name": "Wiener Stra\u00c3\u0178e",
+        "rm": "C",
+        "p": "B",
+        "gs": "B"
+      },
+      {
+        "name": "Wiesengasse",
+        "rm": "A",
+        "p": "B",
+        "gs": "A"
+      },
+      {
         "name": "Wilhelm Schlo\u00c3\u0178-G.",
         "rm": "D",
         "p": "B",
@@ -849,105 +891,15 @@
         "gs": "B"
       },
       {
-        "name": "Bundesstra\u00c3\u0178e",
-        "rm": null,
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Franz Kamlander-G.",
-        "rm": null,
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Krautgartenweg",
-        "rm": null,
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Kurze-Gasse",
-        "rm": null,
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Mathias Tatzmann-Pl.",
-        "rm": null,
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Quellenweg",
-        "rm": null,
-        "p": "A",
-        "gs": "A"
-      },
-      {
-        "name": "Tennisplatz",
-        "rm": null,
-        "p": "A",
-        "gs": "B"
-      },
-      {
-        "name": "Am Stein",
-        "rm": null,
+        "name": "Zehetnergasse 1",
+        "rm": "C",
         "p": "B",
         "gs": "B"
       },
       {
-        "name": "Fichtenweg",
-        "rm": null,
+        "name": "Zehetnergasse 6 und 8",
+        "rm": "B",
         "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Fliegerweg",
-        "rm": null,
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "F\u00c3\u00b6hrenweg",
-        "rm": null,
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Neuri\u00c3\u0178stra\u00c3\u0178e",
-        "rm": null,
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Rauchfangkehrerweg",
-        "rm": null,
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Tempelweg",
-        "rm": null,
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Waldweg",
-        "rm": null,
-        "p": "B",
-        "gs": "A"
-      },
-      {
-        "name": "Zehetnergasse",
-        "rm": null,
-        "p": "B",
-        "gs": "B"
-      },
-      {
-        "name": "Hans-Fr\u00c3\u00bchwirth-Str.",
-        "rm": null,
-        "p": null,
         "gs": "B"
       }
     ]
